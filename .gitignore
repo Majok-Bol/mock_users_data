@@ -67,6 +67,7 @@ coverage.xml
 # Data files (customize based on your needs)
 *.csv
 users_table1.csv
+users_tabe2.csv
 *.xlsx
 *.xls
 *.db
