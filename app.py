@@ -5,7 +5,7 @@ occupation=np.random.choice(["Teacher","Nurse","Sales Manager","Accountant","Dat
 salary=np.random.randint(50000,300000,size=15)
 location=np.random.choice(["Lagos","Washington","Moscow","Hanoi","Mumbai","Nairobi","Oslo","Warsaw","Burcharest"],size=15)
 users_dataset1={
-    "Names":["Mary","Jane","Hillary","Napoleon","Terry","Mane","Sane","Mamadou","Claire","Venn","Hill","Joan","Peter","James","John"],
+    "Name":["Mary","Jane","Hillary","Napoleon","Terry","Mane","Sane","Mamadou","Claire","Venn","Hill","Joan","Peter","James","John"],
     "Age":age,
     "Occupation":occupation,
     "Salary":salary,
